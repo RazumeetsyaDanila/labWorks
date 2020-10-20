@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          Это тестовая запись.
+        </p>
       </header>
     </div>
   );
